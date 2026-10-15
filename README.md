@@ -119,3 +119,17 @@ Have a project idea or want to connect? Let's talk!
 <sub>Designed with 💚 by Manas Biswal</sub>
 
 </div>
+
+
+---
+
+<div align="center">
+
+## 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thecodingmindtm/Thecodingmindtm/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Thecodingmindtm/Thecodingmindtm/output/github-snake.svg" />
+</picture>
+
+</div>
